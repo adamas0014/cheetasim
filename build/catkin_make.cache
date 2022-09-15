@@ -1,0 +1,2 @@
+my_robot_description
+-DCATKIN_DEVEL_PREFIX=/home/dannyvm/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dannyvm/simulation_ws/install -G Unix Makefiles
